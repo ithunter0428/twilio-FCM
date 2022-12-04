@@ -14,8 +14,10 @@
     "axios": "^1.2.0",
     "chromedriver": "^107.0.3",
     "selenium-webdriver": "^4.7.0",
-    "twilio": "^3.83.4",
     "express": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=14.20.0"
   }
 }
 
